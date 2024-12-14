@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mawiy/OneDrive/Desktop/MLflow/mlruns/0/3a0babbadbf84188b2ab91cb7a3e10d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a0babbadbf84188b2ab91cb7a3e10d3
+run_name: bustling-bug-104
+run_uuid: 3a0babbadbf84188b2ab91cb7a3e10d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734182349586
+status: 1
+tags: []
+user_id: mawiy
